@@ -1,0 +1,4 @@
+import numpy as np
+numbers = [1, 20, 33, 14, 55]
+median = np.median(numbers)
+print("Median :", median) 
